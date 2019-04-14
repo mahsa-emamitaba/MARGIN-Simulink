@@ -6,7 +6,7 @@ Model {
     NumRootInports	    0
     NumRootOutports	    0
     ParameterArgumentNames  ""
-    ComputedModelVersion    "1.744"
+    ComputedModelVersion    "1.754"
     NumModelReferences	    0
     NumTestPointedSignals   0
   }
@@ -27,9 +27,9 @@ Model {
   ModifiedByFormat	  "%<Auto>"
   LastModifiedBy	  "msemamit"
   ModifiedDateFormat	  "%<Auto>"
-  LastModifiedDate	  "Fri Dec 14 17:00:19 2018"
-  RTWModifiedTimeStamp	  466707280
-  ModelVersionFormat	  "1.%<AutoIncrement:744>"
+  LastModifiedDate	  "Sat Apr 13 23:05:47 2019"
+  RTWModifiedTimeStamp	  477097542
+  ModelVersionFormat	  "1.%<AutoIncrement:754>"
   ConfigurationManager	  "None"
   SampleTimeColors	  off
   SampleTimeAnnotations	  off
@@ -822,7 +822,7 @@ Model {
     ShowPageBoundaries	    off
     ZoomFactor		    "100"
     ReportName		    "simulink-default.rpt"
-    SIDHighWatermark	    "1103390"
+    SIDHighWatermark	    "1300678"
     Block {
       BlockType		      SubSystem
       Name		      "Adaptation Action"
@@ -2632,7 +2632,7 @@ Model {
       SID		      "3938"
       Ports		      [1, 1]
       Position		      [990, 1382, 1070, 1428]
-      MATLABFcn		      "MGDME(u)"
+      MATLABFcn		      "MARGIN(u)"
     }
     Block {
       BlockType		      Mux
