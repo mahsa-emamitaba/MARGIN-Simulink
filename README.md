@@ -22,7 +22,7 @@ Now, based on the scenario run either of the following 4 options:
 1.	For DoS Scenario: run MATLAB file  run_Main_S1.m 
 2.	For Insider Scenario: run MATLAB file run_Main_S2.m 
 3.	For DoS+Insider Scenario: run MATLAB file  run_Main_S3.m 
-4.	For DoS+Insider/Sequential Scenario: run MATLAB file  run_Main_S4.m 
+4.	For DoS+Insider/Sequential Scenario: run MATLAB file run_Main_S4.m
 
 
 For any questions regarding running the experiments please feel free to contact: mahsa.emamitaba@uwaterloo.ca
